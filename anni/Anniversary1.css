@@ -72,7 +72,7 @@ body {
   min-height: 100vh;
   display: grid;
   place-content: center;
-  background: #ffb6c1;
+  background: #ffc0cb;
   overflow: hidden;
 }
 
